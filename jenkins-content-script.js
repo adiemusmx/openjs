@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Jenkins编译辅助插件
-// @version      0.9.0
+// @version      1.0.0
 // @icon         https://jenkins.mapbar.com/static/cafc1878/images/headshot.png
 // @description  进行编译的时候，提供额外的筛选按钮
 // @author       Leon Yang
